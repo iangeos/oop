@@ -1,2 +1,2 @@
 # oop
-oop simple example
+OOP simple example

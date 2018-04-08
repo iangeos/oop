@@ -10,7 +10,6 @@ int main()
 	cout << "Perimeter of the shape is: " << c1.perimeter() << endl;
 
         Rectangle r1(4.0,5.0);
-        cout << "Hello!" << endl;
         cout << "Area of the shape is: " << r1.area() << "\n";
         cout << "Perimeter of the shape is: " << r1.perimeter() << endl;
 
